@@ -1,4 +1,3 @@
-977. Squares of a Sorted Array
 /*
 977. Squares of a Sorted Array
 Two-pointers can compare the value of a number. 
